@@ -48,7 +48,7 @@ The contact details, testimonials, professional information, location, and other
 
 ## Demo
 
-[View landing page on GitHub Pages](https://brendaalandacontreras.github.io/LandingPage_Dentist/)
+[View landing page on GitHub Pages](https://brendaalandac.github.io/LandingPage_Dentist/)
 
 ---
 
@@ -108,7 +108,7 @@ Los datos de contacto, testimonios, información profesional, ubicación y demá
 
 ##  Demo
 
-[Ver landing page en GitHub Pages](https://brendaalandacontreras.github.io/LandingPage_Dentist/)
+[Ver landing page en GitHub Pages](https://brendaalandac.github.io/LandingPage_Dentist/)
 
 ---
 
